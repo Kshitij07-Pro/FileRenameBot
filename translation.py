@@ -9,7 +9,7 @@ class Translation(object):
     UPGRADE_TEXT = "CONTACT @No_OnE_Kn0wS_Me "
     DOWNLOAD_START = "<b>Downloading To My server 📥, anything for onii chan! 😊</b>"
     UPLOAD_START = "<b>Downloaded Successfully onii chan, Now I'm Uploading Into TG📤</b>"
-    RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry Do You Think! I'll Upload It?"
+    RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nBaka, Do You Think! I'll Upload It?"
     AFTER_SUCCESSFUL_UPLOAD_MSG = "<b>Thank you for Using Me onii chan, don'y forget to join my Anime Chat Group @Anime_Discussion_requests</b>"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds"
     NOT_AUTH_USER_TEXT = "CONTACT @xitij2049 "
