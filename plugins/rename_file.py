@@ -67,7 +67,7 @@ async def rename_doc(bot, update):
             await update.reply_text(
                 text="**Please Join My Update Channel Before Using Me..**",
                 reply_markup=InlineKeyboardMarkup([
-                    [ InlineKeyboardButton(text="Join My Updates Channel", url=f"https://t.me/{update_channel}")]
+                    [ InlineKeyboardButton(text="Join My Anime Group Onii Chan", url=f"https://t.me/{update_channel}")]
               ])
             )
             return
